@@ -1,0 +1,11 @@
+module.exports = {
+	mainScssValue: `.container {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100px;
+	font-size: 18px;
+	background: #efefef;
+}`
+};
