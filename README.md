@@ -1,9 +1,11 @@
 # create-test-react-app
 Create A React App with basic Configuration
 
-To add basic app
-	create-test-react-app --app myapp
 
-To make app with reducer and redux
-	create-test-react-app --app myapp --withredux
+To install create-test-react-app in your system you can write
+	`npm i create-test-react-app -g`
+
+To create a React App, use:
+	`create-test-react-app --app myapp`
+
 
